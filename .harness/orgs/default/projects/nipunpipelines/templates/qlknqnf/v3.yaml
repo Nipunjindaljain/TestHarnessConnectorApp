@@ -20,7 +20,7 @@ template:
                 source:
                   type: Inline
                   spec:
-                    script: echo "fmggqgq"
+                    script: echo "fm   new v3 ggqgq"
                 environmentVariables: []
                 outputVariables: []
               timeout: 10m
