@@ -1,0 +1,27 @@
+template:
+  name: qlknqnf
+  identifier: qlknqnf
+  versionLabel: wfqfq
+  type: Stage
+  projectIdentifier: nipunpipelines
+  orgIdentifier: default
+  tags: {}
+  spec:
+    type: Custom
+    spec:
+      execution:
+        steps:
+          - step:
+              type: ShellScript
+              name: ShellScript_1
+              identifier: ShellScript_1
+              spec:
+                shell: Bash
+                executionTarget: {}
+                source:
+                  type: Inline
+                  spec:
+                    script: echo "fmggqgq"
+                environmentVariables: []
+                outputVariables: []
+              timeout: 10m
