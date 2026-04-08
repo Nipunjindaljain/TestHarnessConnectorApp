@@ -39,3 +39,17 @@ template:
                 environmentVariables: []
                 outputVariables: []
               timeout: 10m
+          - step:
+              type: ShellScript
+              name: ShellScript_3
+              identifier: ShellScript_3
+              spec:
+                shell: Bash
+                executionTarget: {}
+                source:
+                  type: Inline
+                  spec:
+                    script: echo "Version 2 njj Step 3"
+                environmentVariables: []
+                outputVariables: []
+              timeout: 10m
