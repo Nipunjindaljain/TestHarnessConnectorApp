@@ -1,7 +1,6 @@
 template:
   name: qlknqnf
   identifier: qlknqnf
-  versionLabel: v002
   type: Stage
   projectIdentifier: nipunpipelines
   orgIdentifier: default
@@ -13,7 +12,7 @@ template:
         steps:
           - step:
               type: ShellScript
-              name: ShellScript_1
+              name: ShellScript_2
               identifier: ShellScript_1
               spec:
                 shell: Bash
@@ -21,7 +20,8 @@ template:
                 source:
                   type: Inline
                   spec:
-                    script: echo "aftewr njj-webhook creation fmgfchgvjhbfwwgwgwggqgq new"
+                    script: echo "fm   new v2 ggqgq"
                 environmentVariables: []
                 outputVariables: []
               timeout: 10m
+  versionLabel: v002
