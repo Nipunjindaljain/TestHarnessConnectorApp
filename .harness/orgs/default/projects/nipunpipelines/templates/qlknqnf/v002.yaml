@@ -21,7 +21,7 @@ template:
                 source:
                   type: Inline
                   spec:
-                    script: echo "aftewr njj-webhook creation fmgfchgvjhbfwwgwgwggqgq"
+                    script: echo "aftewr njj-webhook creation fmgfchgvjhbfwwgwgwggqgq new"
                 environmentVariables: []
                 outputVariables: []
               timeout: 10m
